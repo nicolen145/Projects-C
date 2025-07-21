@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBuX6Npc0iY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole\\OneDrive\\שולחן העבודה\\מבוא למערכות הפעלה\\עבודה 2\\ImageSearch\\ImageSearch\\ImageSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nicole\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "C:\\Users\\Nicole\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

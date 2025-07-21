@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "image1.jpg\r\nimage2.jpg\r\n5\r\nexact"
+    }
+  }
+}
