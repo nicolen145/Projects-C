@@ -1,0 +1,7 @@
+C:\Users\Nicole\source\repos\CPU-Process\CPU-Process\obj\Debug\CPU-Process.csproj.AssemblyReference.cache
+C:\Users\Nicole\source\repos\CPU-Process\CPU-Process\obj\Debug\CPU-Process.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\source\repos\CPU-Process\CPU-Process\bin\Debug\CPU-Process.exe.config
+C:\Users\Nicole\source\repos\CPU-Process\CPU-Process\bin\Debug\CPU-Process.exe
+C:\Users\Nicole\source\repos\CPU-Process\CPU-Process\bin\Debug\CPU-Process.pdb
+C:\Users\Nicole\source\repos\CPU-Process\CPU-Process\obj\Debug\CPU-Process.exe
+C:\Users\Nicole\source\repos\CPU-Process\CPU-Process\obj\Debug\CPU-Process.pdb
